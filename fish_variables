@@ -1,0 +1,54 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export BROWSER:x\x2dwww\x2dbrowser
+SETUVAR --path CPATH:/opt/homebrew/include
+SETUVAR --path CPLUS_INCLUDE_PATH:/opt/homebrew/include
+SETUVAR --path C_INCLUDE_PATH:/opt/homebrew/include
+SETUVAR EDITOR:nvim
+SETUVAR --path LD_LIBRARY_PATH:/opt/homebrew/lib
+SETUVAR --export --path LIBRARY_PATH:/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib\x1e/opt/homebrew/lib
+SETUVAR --export LS_COLORS:ow\x3d01\x3b36\x3b40
+SETUVAR --path PATH:/opt/homebrew/Caskroom/miniconda/base/bin\x1e/opt/homebrew/Caskroom/miniconda/base/condabin\x1e/Users/fgo/bin\x1e/Users/fgo/perl5/bin\x1e/usr/local/bin\x1e/System/Cryptexes/App/usr/bin\x1e/usr/bin\x1e/bin\x1e/usr/sbin\x1e/sbin\x1e/Users/fgo/Library/Android/sdk/platform\x2dtools\x1e/Users/fgo/Library/Android/sdk/cmdline\x2dtools/latest/bin\x1e/opt/X11/bin\x1e/opt/homebrew/bin\x1e/opt/homebrew/sbin\x1e/Library/Apple/usr/bin\x1e/Users/fgo/\x2elocal/share/nvm/v14\x2e17\x2e4/bin\x1e/Users/fgo/\x2ecargo/bin\x1e/Applications/kitty\x2eapp/Contents/MacOS\x1e/Users/fgo/\x2ervm/bin\x1e/Users/fgo/\x2elocal/bin\x1e/Applications/Visual\x20Studio\x20Code\x2eapp/Contents/Resources/app/bin
+SETUVAR VISUAL:nvim
+SETUVAR __fish_init_2_39_8:\x1d
+SETUVAR __fish_init_2_3_0:\x1d
+SETUVAR __fish_init_3_x:\x1d
+SETUVAR __fish_initialized:3400
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:/Users/fgo/\x2econfig/fish/functions/fisher\x2efish\x1e/Users/fgo/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:/Users/fgo/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/_nvm_list\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/nvm\x2efish\x1e/Users/fgo/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e/Users/fgo/\x2econfig/fish/completions/nvm\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejorgebucaran/nvm\x2efish\x1ettscoff/fuzzy_cd
+SETUVAR _fisher_ttscoff_2F_fuzzy__cd_files:/Users/fgo/\x2econfig/fish/functions/__fuzzy_cd\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/fcd_ffdir\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/fcd_ffmark\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/fcd_jump\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/fcd_shortest\x2efish\x1e/Users/fgo/\x2econfig/fish/functions/fcd_warn\x2efish\x1e/Users/fgo/\x2econfig/fish/conf\x2ed/fuzzy_cd\x2efish\x1e/Users/fgo/\x2econfig/fish/conf\x2ed/fuzzy_cd_common\x2efish
+SETUVAR fish_color_autosuggestion:BD93F9
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:F8F8F2
+SETUVAR fish_color_comment:6272A4
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:50FA7B
+SETUVAR fish_color_error:FFB86C
+SETUVAR fish_color_escape:00a6b2
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:00a6b2
+SETUVAR fish_color_param:FF79C6
+SETUVAR fish_color_quote:F1FA8C
+SETUVAR fish_color_redirection:8BE9FD
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_greeting:
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:normal
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_pager_color_selected_background:\x2dr
+SETUVAR fish_user_paths:/opt/homebrew/bin\x1e/Users/fgo/Library/Python/3\x2e9/bin\x1e/Users/fgo/\x2enimble/bin\x1e/Users/fgo/go/bin\x1e/Applications/Visual\x20Studio\x20Code\x2eapp/Contents/Resources/app/bin\x1e/Users/fgo/bin
+SETUVAR nvm_data:/Users/fgo/\x2elocal/share/nvm
+SETUVAR nvm_mirror:https\x3a//nodejs\x2eorg/dist
+SETUVAR theme_display_date:no
