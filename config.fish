@@ -23,7 +23,10 @@ end
 zoxide init fish --cmd t | source
 
 abbr -a -- su 'sudo fish'
-abbr -a -- flast 'ls -trlh --color'
+abbr -a -- flast 'eza --long --sort modified'
+abbr -a -- ll 'eza --long'
+abbr -a -- tree 'eza --tree --long'
 abbr -a -- vim 'nvim -O'
+abbr -a --position anywhere -- vi 'nvim -u NONE'
 abbr -a --position anywhere -- ff '(fzf)'
 abbr -a -- td 'todo'
