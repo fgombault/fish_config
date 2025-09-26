@@ -30,3 +30,5 @@ abbr -a -- vim 'nvim -O'
 abbr -a --position anywhere -- vi 'nvim -u NONE'
 abbr -a --position anywhere -- ff '(fzf)'
 abbr -a -- td 'todo'
+
+starship init fish | source
